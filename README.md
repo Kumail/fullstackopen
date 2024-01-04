@@ -1,2 +1,2 @@
 # fullstackopen
-My solutions for full stack open
+My solutions for full stack open course
