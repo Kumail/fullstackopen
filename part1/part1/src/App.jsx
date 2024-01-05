@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      <p>Hello World</p>
+      <p>Year 2024 will ne productive</p>
     </div>
   )
 }
